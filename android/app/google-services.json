@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "276496191388",
+    "project_id": "microblog-81192",
+    "storage_bucket": "microblog-81192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276496191388:android:a8dd735fbc5066953ac259",
+        "android_client_info": {
+          "package_name": "com.example.micro_blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276496191388-nsr8ob2su3r9strbfhepta8kqdfe63u7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.micro_blog",
+            "certificate_hash": "fde4e9ed1253a1ac3955e9f46f7cd32ae8d27d6a"
+          }
+        },
+        {
+          "client_id": "276496191388-6q64l5lvmh2u5h9vhr9cbte8cccunf41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgAQ32Hjzv8ObwbofmxdUqCuADKErHRrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276496191388-6q64l5lvmh2u5h9vhr9cbte8cccunf41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
